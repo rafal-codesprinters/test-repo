@@ -10,7 +10,7 @@ namespace ApkConsole
     {
         static void Main(string[] args)
         {
-            Console.Write("Press a key to exit...");
+            Console.Write("Press any key to exit...");
             Console.ReadKey();
         }
     }
