@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 YYYY
+=======
+XXXX
+>>>>>>> 74adedc55f626a40393b034a4c5695b6980beffd
